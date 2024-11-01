@@ -1,7 +1,3 @@
-Here's a README file for the memory game project. This README includes a brief description, setup instructions, and usage information, which is helpful for showcasing and guiding other developers who might want to explore or contribute to the project.
-
----
-
 # Memory Game 🃏
 
 A fun, interactive memory card-flipping game built with HTML, CSS, and JavaScript! Test your memory by matching pairs of cards, while racing against the timer. Earn points for each match, but watch out – mismatches will cost you! This project is perfect for those learning JavaScript DOM manipulation, CSS animations, and responsive layouts.
