@@ -2,7 +2,7 @@
 
 A fun, interactive memory card-flipping game built with HTML, CSS, and JavaScript! Test your memory by matching pairs of cards, while racing against the timer. Earn points for each match, but watch out – mismatches will cost you! This project is perfect for those learning JavaScript DOM manipulation, CSS animations, and responsive layouts.
 
-![Memory Game Demo](demo img/demo.jpg)
+![Memory Game Demo](https://github.com/paul-srijan/memory-card-game/blob/6f3d805fc87a933a73790f8b7f6a9a6b82db3e98/demo%20img/demo.jpg)
 
 ## 📋 Game Features
 - **Card Flipping Mechanics**: Flip cards to reveal symbols and find pairs.
